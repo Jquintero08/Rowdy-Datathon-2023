@@ -5,8 +5,8 @@ import pandas as pd
 import sqlite3
 
 # PostgreSQL connection settings
-host = '192.168.2.4'
-port = '34567'
+host = '127.0.0.1'
+port = '5432'
 database = 'postgres'
 username = 'postgres'
 password = 'postgres'
