@@ -2,13 +2,13 @@
 
 ## Introduction
 
-Welcome to our GitHub repository for the Rowdy Datathon 2023 project. We are UTSA students participating in this datathon, and this repository contains the code and resources for our project, which focuses on analyzing and recommending resource allocation strategies to increase educational attainment in congressional districts.
+Welcome to our GitHub repository for the Rowdy Datathon 2023 project. This repository contains the code and resources for our project, which focuses on analyzing and recommending resource allocation strategies to increase educational attainment in congressional districts.
 
 ## Problem Description
 
 In the context of Rowdy Datathon 2023, our objectives were as follows:
 
-1. Determine the socioeconomic and environmental factors influencing educational attainment.
+1. Determine the socioeconomic factors influencing educational attainment.
 2. Recommend resource allocation strategies based on our analysis.
 3. Conduct the analysis for Texas and make comparisons with other states.
 
@@ -43,11 +43,7 @@ To replicate our analysis or use our code, follow these steps:
 
 ## Contributors
 
-- [Your Name](GitHub Profile Link)
-- [Teammate 1's Name](GitHub Profile Link)
-- [Teammate 2's Name](GitHub Profile Link)
-- [Teammate 3's Name](GitHub Profile Link)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code and resources.
+- [Brandon Hawkins](GitHub Profile Link)
+- [Carly Munoz](GitHub Profile Link)
+- [Alex Rheney](GitHub Profile Link)
+- [Jacob Quintero](GitHub Profile Link)
