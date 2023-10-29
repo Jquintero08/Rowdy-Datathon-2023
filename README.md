@@ -38,9 +38,10 @@ To replicate our analysis or use our code, follow these steps:
 
 1. Download the CSV datasets located in the `data/` directory.
 2. Run the `filter.py` python script located in the `scripts/` directory to sanitize the data
-3. Use the custom SQL schemas in the `sql/` directory to analyze the data and create a new table called `school_summary` that contains the summarized data
-4. Run the `dataVisualization.py` python script located in the `scripts/` directory to visualize the summarized data
-5. Refer to the reports in the `reports/` directory for detailed findings and recommendations.
+3. Run the `CsvtoSql.py` python script located in the `scripts/` directory to import the tables based on the CSV files into the database
+4. Use the custom SQL schemas in the `sql/` directory to analyze the data and create a new table called `school_summary` that contains the summarized data
+5. Run the `dataVisualization.py` python script located in the `scripts/` directory to visualize the summarized data
+6. Refer to the reports in the `reports/` directory for detailed findings and recommendations.
 
 ## Contributors
 
