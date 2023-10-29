@@ -43,7 +43,7 @@ To replicate our analysis or use our code, follow these steps:
 
 ## Contributors
 
-- [Brandon Hawkins](GitHub Profile Link)
-- [Carly Munoz](GitHub Profile Link)
-- [Alex Rheney](GitHub Profile Link)
-- [Jacob Quintero](GitHub Profile Link)
+- [Brandon Hawkins](https://github.com/BhawksGit)
+- [Carly Munoz](https://github.com/carlyam02)
+- [Alex Rheney](https://github.com/JaR448)
+- [Jacob Quintero](https://github.com/Jquintero08)
