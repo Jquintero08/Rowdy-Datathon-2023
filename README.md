@@ -36,10 +36,11 @@ Our project is organized as follows:
 
 To replicate our analysis or use our code, follow these steps:
 
-1. Download the required datasets listed above from the "2017-18 Civil Rights Data Collection (CRDC)" folder and place them in the `data/` directory.
-2. Run the Python scripts in the `scripts/` directory to sanitize the data, interact with the database, and generate graphs.
-3. Use the custom SQL schemas in the `sql/` directory to organize the data and perform queries.
-4. Refer to the reports in the `reports/` directory for detailed findings and recommendations.
+1. Download the CSV datasets located in the `data/` directory.
+2. Run the `filter.py` python script located in the `scripts/` directory to sanitize the data
+3. Use the custom SQL schemas in the `sql/` directory to analyze the data and create a new table called `school_summary` that contains the summarized data
+4. Run the `dataVisualization.py` python script located in the `scripts/` directory to visualize the summarized data
+5. Refer to the reports in the `reports/` directory for detailed findings and recommendations.
 
 ## Contributors
 
